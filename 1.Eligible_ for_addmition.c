@@ -9,7 +9,7 @@ void main()
 	scanf("%d%d",&math, &science);
     total_perc = math+science;
     if(total_perc>=50){
-    	printf("Eligible for addmition .");
+    	printf("Eligible for admission .");
     	if(total_perc>=80){
     		printf("Eligible for scholorship .");
 		}
